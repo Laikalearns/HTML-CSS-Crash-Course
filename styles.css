@@ -1,0 +1,29 @@
+/*styles for basicCSS.html file */
+
+h1{
+    color: orangered;
+    background-color: black;
+    font-size: 20px;
+    text-decoration:underline;
+    font-family: Verdana;
+    text-align: center;
+}
+P{
+    color: slategray;
+    text-align: left;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 2;
+    column-gap: 60px;
+}
+ul{
+    border-width: 4px;
+    border-style: solid;
+    border-color: crimson;
+}
+li{
+    list-style-type: none;
+    /*text-shadow: 2px 2px lightblue; */
+    text-shadow: 1px 1px #2020d4;
+
+}
